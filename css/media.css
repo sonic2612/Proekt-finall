@@ -1,0 +1,101 @@
+@media screen and (max-width: 1024px) {
+   .fo {
+    font-size: 4em;
+    margin: 0.4em 0 0 0; 
+    }
+    .font-size-color-lh {
+    font-size: 1.4em;
+    }
+    .main-rule {
+    margin: 2em 2em 0.3em 0;
+    width: 48%;
+    }
+    .hide-block{
+        display: none;
+    }
+    .icon {
+    margin: 0.5em 0 0.7em;
+    }
+    h1{
+    
+    }
+    .img-hide{
+        cursor: pointer;
+        display: block;
+        padding-top: 1em;
+        float: right;
+    }
+}
+@media screen and (max-width: 995px) {
+   .bg-white {
+     padding: none; 
+    }
+    .main-rule {
+    margin: auto; 
+    width: auto; 
+    }
+    .color-fff {
+    color: #ffc155;
+    }
+    .pd-bottom-big{
+    background: #fff;
+     padding-bottom: 2em;
+    }
+    .hover-block{
+    margin-left: 5em; 
+    }
+    .mg-top-big {
+    margin-top: none;
+    }
+    .mg-top-small {
+    margin-top: 1.4em;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+   .jumbotron p {
+    font-size: 1.5em;
+    }
+    .font-size-color-lh {
+    font-size: 1.4em;
+    }
+    .btn-text{
+        width: 100%;
+    }
+    .fo {
+    font-size: 4em;
+    margin: 0.4em 0 0 1em; 
+    }
+    
+}
+@media screen and (max-width: 725px) {
+   .hover-block{
+    margin-left: auto; 
+    }
+    
+}
+@media screen and (max-width: 650px) {
+   .parallax{
+    display: none;
+    }
+    .block-content {
+    width: auto;
+    margin-top: auto; 
+}
+    
+}
+@media screen and (max-width: 520px) {
+  .fo {
+    font-size: 4em;
+    margin: 0;
+    padding: 0.5em 0 0 0.5em; 
+    }
+    
+}
+@media screen and (max-width: 390px) {
+  .fo {
+    display:none;
+    }
+    
+}

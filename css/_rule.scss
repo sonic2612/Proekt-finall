@@ -1,0 +1,51 @@
+.jumbotron {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    background-color: #fff;
+}
+h1{
+	margin:0;
+}
+.jumbotron p {
+    font-size: 1.8em;
+}
+.form-control {
+    height: auto;
+    font-size: 1.375em;
+    }
+.btn{
+	font-size:1.3em;
+	border-radius: 0;
+}
+.navbar-inverse {
+    background-color: #fff; 
+    border-color: #3d6e7b;
+}
+.navbar {
+    margin-bottom: 0;
+    border: none;
+    padding: 2.5em 0;
+}
+.navbar-brand {
+   padding: 0; 
+   font-size: inherit; 
+}
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+    color: #337ab7;
+    background-color: transparent; 
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #337ab7;
+    font-size: 1.53em;
+    padding: 1.3em;
+    text-transform: uppercase;
+}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+    color: #fff;
+    background-color: #ffbb42;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+    color: #fff;
+    background-color: #ffbb42;
+}
